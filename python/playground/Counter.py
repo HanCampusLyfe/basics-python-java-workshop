@@ -22,3 +22,6 @@ print(c2.count)  # 0
 print(Counter.count)  # 2
 
 hello()  # Hello, World!
+
+# TEST PUSH
+
